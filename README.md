@@ -24,3 +24,7 @@ Program komputer ini digunakan untuk menjadwalkan mata kuliah secara otomatis de
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 //-------------------------------------------------------------------------------------------------------
+
+
+Link User Manual Book (Prosedur Penggunaan Program) :
+https://undipmail-my.sharepoint.com/:b:/g/personal/lisayihaa_lecturer_undip_ac_id/EZXZFzquoCxAqRklGqyisVcBFBRizdiKFvGGQdpksGPEIw?e=GpvYhW
